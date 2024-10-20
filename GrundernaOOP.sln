@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrundernaOOP", "GrundernaOOP.csproj", "{22532790-73BE-4A3B-BB27-235588B4348A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22532790-73BE-4A3B-BB27-235588B4348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22532790-73BE-4A3B-BB27-235588B4348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22532790-73BE-4A3B-BB27-235588B4348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22532790-73BE-4A3B-BB27-235588B4348A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0E6CD2-63A3-453F-8306-AE93A98C49E4}
+	EndGlobalSection
+EndGlobal
